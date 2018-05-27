@@ -7,8 +7,13 @@ Many travellers find very little time to blog on-the-go. For some travellers, bl
 
 ## Project files
 
-blog.txt - Input data
-blog_bot.ipynb - Jupyter notebook
+```blog.txt``` - Input data
+
+```blog_bot.ipynb``` - Jupyter notebook
+
+```proposal.pdf``` - Capstone proposal
+
+```report.pdf``` - Capstone report
 
 ## Project Instructions
 
